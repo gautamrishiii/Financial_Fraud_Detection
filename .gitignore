@@ -1,29 +1,19 @@
-
 # Python virtual environment
 .venv/
 
 # Python cache
 __pycache__/
+**/__pycache__/
 *.py[cod]
 .pytest_cache/
 .ipynb_checkpoints/
-
-# Raw datasets
-dataset/raw/
-
-# Generated outputs and models
-eda_outputs/*.csv
-models/
-*.joblib
-*.pkl
 
 # Local files and secrets
 .ipython/
 .python_history
 .streamlit/secrets.toml
+auth_users.db
 
 # Operating system files
 .DS_Store
 Thumbs.db
-.streamlit/secrets.toml
-auth_users.db
