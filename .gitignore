@@ -25,3 +25,5 @@ models/
 # Operating system files
 .DS_Store
 Thumbs.db
+.streamlit/secrets.toml
+auth_users.db
