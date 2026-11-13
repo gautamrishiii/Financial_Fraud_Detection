@@ -190,6 +190,8 @@ The project emphasizes transparent evaluation rather than relying on accuracy al
 - Cross-dataset generalization experiments.
 - Explainable AI and feature importance analysis.
 - Improved fraud investigation workflows.
+- Improved transation quality
+
 
 ## Author
 
