@@ -1,0 +1,17 @@
+.git/
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+dataset/
+eda_outputs/
+src/
+notebooks/
+.ipython/
+.python_history
+.streamlit/secrets.toml
+auth_users.db
+.DS_Store
+Thumbs.db
+*.log
